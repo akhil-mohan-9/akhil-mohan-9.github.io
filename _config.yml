@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
+title:          Akhil's Blog
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+# baseurl:        ""
+url:            "https://akhil-walkbyfaith.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Akhil
+  url:          https://akhil-walkbyfaith.github.io
+  email:        akhil.walkbyfaith@gmail.com
 
 # Build settings
 markdown:       kramdown
