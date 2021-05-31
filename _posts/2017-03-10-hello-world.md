@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-author: "Jekyll"
+author: "Akhil Mohan"
 tags: Jekyll
 ---
 
