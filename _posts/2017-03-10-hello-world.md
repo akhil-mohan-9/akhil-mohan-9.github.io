@@ -11,6 +11,6 @@ This is my blog.
 
 Thank you for dropping by.
 
-![_config.yml]({{ site.baseurl }}/images/akhil.jpg)
+![]({{ site.baseurl }}/images/akhil.jpg)
 
 -Akhil
