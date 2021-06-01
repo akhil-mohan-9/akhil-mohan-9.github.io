@@ -11,6 +11,6 @@ This is my blog.
 
 Thank you for dropping by.
 
-![Hello world!]({{ site.baseurl }}/images/akhil.jpg)
+![_config.yml]({{ site.baseurl }}/images/akhil.jpg)
 
 -Akhil
