@@ -11,6 +11,6 @@ This is my blog.
 
 Thank you for dropping by.
 
-![]({{ site.baseurl }}/images/akhil.jpg)
+![Hello world]({{ site.baseurl }}/images/akhil.jpg)
 
 -Akhil
