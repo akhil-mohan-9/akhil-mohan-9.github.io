@@ -9,7 +9,6 @@ Hey there! So I decided to pen down, more like, type down my thoughts and reflec
 
 Welcome, and I hope you enjoy!
 
-![Hello world]({{ site.baseurl }}/images/me.HEIC)
+![Hello world]({{ site.baseurl }}/images/me1.HEIC)
 
-Thank you!
 
