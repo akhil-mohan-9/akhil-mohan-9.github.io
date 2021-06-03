@@ -5,9 +5,9 @@ author: "Akhil"
 permalink: /about/
 ---
 
-I plan to write down interesting problems and how I solved them.
+Hey there! So I decided to pen down, more like, type down my thoughts and reflections in this blog!
 
-I hope you find it of benefit.
+Welcome, and I hope you enjoy!
 
 If you have any questions, please feel free to leave a comment or otherwise email me.
 
