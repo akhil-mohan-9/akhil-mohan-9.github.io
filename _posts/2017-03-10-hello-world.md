@@ -7,9 +7,9 @@ tags: Jekyll
 
 Hi everyone
 
-This is my blog.
+I share my thoughts and experiences here.
 
-Thank you for dropping by.
+Thank you for dropping by!
 
 ![Hello world]({{ site.baseurl }}/images/akhil.jpg)
 
