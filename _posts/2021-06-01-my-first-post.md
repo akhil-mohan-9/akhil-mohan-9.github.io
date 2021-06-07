@@ -2,7 +2,7 @@
 layout: post
 title:  "The Best Part of a Relationship is Restoring It."
 author: "Akhil Mohan"
-tags: Jekyll
+tags: Thoughts
 ---
 God created Adam and Eve and placed them in the garden of Eden. Little did they know that the tree from which they weren’t supposed to eat was placed in the garden to demonstrate their freedom of choice; to practise freewill, to love. I sometimes imagine what if I was in Adam’s or Eve’s position. Knowing the lures, desires and struggles I face daily; I can easily conclude that I would’ve let God down as well. 
 
